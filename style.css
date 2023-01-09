@@ -1,0 +1,48 @@
+body{
+    height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 10px;
+    background-image: url(img/gaming2.jpg);
+    background-size: cover;
+    background-position: 0 -250px;
+    padding-bottom: 10px;
+    color: #fff;
+    background-attachment: fixed;
+}
+
+#about {
+    background-color: aliceblue;
+    height: 350px;
+    padding-top: 30px;
+}
+
+#portfolio hr{
+    width: 200px;
+    border-top: 4x solid black;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+h3{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+#contact {
+    margin-top: 30px;
+    background-color: aliceblue;
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+}
